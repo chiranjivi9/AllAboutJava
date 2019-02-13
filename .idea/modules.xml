@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/javaUdemy.iml" filepath="$PROJECT_DIR$/.idea/javaUdemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/inheritance example1/Animal inheritance/Animal inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/inheritance example1/Animal inheritance/Animal inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/ArrangeInAlphabeticOrderLinkedList/ArrangeInAlphabeticOrderLinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/ArrangeInAlphabeticOrderLinkedList/ArrangeInAlphabeticOrderLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AllAboutArrays/arrayBasics/Array-FindAverage/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/AllAboutArrays/arrayBasics/Array-FindAverage/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoboxingAndUnboxing/AutoboxingAndUnboxingBasicExample/AutoboxingAndUnboxingBasicExample.iml" filepath="$PROJECT_DIR$/AutoboxingAndUnboxing/AutoboxingAndUnboxingBasicExample/AutoboxingAndUnboxingBasicExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructors/example1/BankAccount/BankAccount.iml" filepath="$PROJECT_DIR$/Constructors/example1/BankAccount/BankAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassesConstructorsAndInheritance/BankAccountExample1/BankAccountExample1.iml" filepath="$PROJECT_DIR$/ClassesConstructorsAndInheritance/BankAccountExample1/BankAccountExample1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoboxingAndUnboxing/BankAppAutoboxing/BankAppAutoboxing.iml" filepath="$PROJECT_DIR$/AutoboxingAndUnboxing/BankAppAutoboxing/BankAppAutoboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/Bedroom/Bedroom.iml" filepath="$PROJECT_DIR$/Composition/Bedroom/Bedroom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlFlowStatements/ControlFlowStatements.iml" filepath="$PROJECT_DIR$/ControlFlowStatements/ControlFlowStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AllAboutArrays/arrayChallenges/GroceryList/GroceryList.iml" filepath="$PROJECT_DIR$/AllAboutArrays/arrayChallenges/GroceryList/GroceryList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AllAboutArrays/arrayBasics/MinElementChallenge/MinElementChallenge.iml" filepath="$PROJECT_DIR$/AllAboutArrays/arrayBasics/MinElementChallenge/MinElementChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composition/PC/PC.iml" filepath="$PROJECT_DIR$/Composition/PC/PC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Printer_usingEncapsulation/Printer_usingEncapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Printer_usingEncapsulation/Printer_usingEncapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AllAboutArrays/arrayBasics/ReverseArray/ReverseArray.iml" filepath="$PROJECT_DIR$/AllAboutArrays/arrayBasics/ReverseArray/ReverseArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AllAboutArrays/arrayChallenges/SimpleMobilePhone/SimpleMobilePhone.iml" filepath="$PROJECT_DIR$/AllAboutArrays/arrayChallenges/SimpleMobilePhone/SimpleMobilePhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AllAboutArrays/arrayBasics/SortArrays/SortArrays.iml" filepath="$PROJECT_DIR$/AllAboutArrays/arrayBasics/SortArrays/SortArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/inheritance example2/Vehicle/Vehicle.iml" filepath="$PROJECT_DIR$/Inheritance/inheritance example2/Vehicle/Vehicle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructors/example2/VipCustomerAccount/VipCustomerAccount.iml" filepath="$PROJECT_DIR$/Constructors/example2/VipCustomerAccount/VipCustomerAccount.iml" />
     </modules>
   </component>
 </project>
